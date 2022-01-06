@@ -1,4 +1,4 @@
-module github.com/SkrejetCepey/JWTTokenManager
+module github.com/SkrejetCepey/jwt-token-manager
 
 go 1.17
 
